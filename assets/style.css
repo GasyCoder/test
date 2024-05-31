@@ -1,0 +1,43 @@
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #0071E3;
+}
+
+.navbar-nav .nav-link {
+    color: #0071E3;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.feature-box img {
+    width: 100%;
+    height: auto;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 20px;
+}
+
+.feature-box h6 {
+    margin-top: 10px;
+}
+
+.footer {
+    background-color: #0071E3;
+    color: white;
+    padding: 20px 0;
+}
+
+.footer a {
+    color: white;
+}
+
+.footer .social-icons a {
+    margin-right: 15px;
+    font-size: 1.5rem;
+}
